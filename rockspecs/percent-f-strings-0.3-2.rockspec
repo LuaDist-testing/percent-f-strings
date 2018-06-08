@@ -1,17 +1,9 @@
--- This file was automatically generated for the LuaDist project.
-
 package = "percent-f-strings"
-version = "0.3-1"
--- LuaDist source
+version = "0.3-2"
 source = {
-  tag = "0.3-1",
-  url = "git://github.com/LuaDist-testing/percent-f-strings.git"
+   url = "git://github.com/iambecomeroot/percent-f-strings",
+   tag = "v0.3.2",
 }
--- Original source
--- source = {
---    url = "git://github.com/iambecomeroot/percent-f-strings",
---    tag = "v0.3",
--- }
 description = {
    summary = [[String interpolation for Lua.]],
    detailed = [[
